@@ -4,4 +4,5 @@ Data Structures and Algorithms in Python
 
 ## Sorts
 
-* Quick Sort
+* <a href="https://github.com/JWLee89/data-structures-and-algorithms/tree/master/sorts/quicksort">Quick Sort<a/>
+* <a href="https://github.com/JWLee89/data-structures-and-algorithms/tree/master/sorts/mergesort">Merge Sort</a>
