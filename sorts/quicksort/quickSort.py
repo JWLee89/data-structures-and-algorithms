@@ -73,7 +73,7 @@ def quicksortimpl(list_of_items, low_index, high_index):
         quicksortimpl(list_of_items, pivot_index + 1, high_index)
 
 
-print("quick sort efficient ----------")
+print("quick sort improved ----------")
 
 quicksortefficient(test_list)
 
